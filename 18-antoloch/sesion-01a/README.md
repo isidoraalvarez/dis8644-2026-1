@@ -46,7 +46,8 @@ Suzanne Ciani es una figura importante y destacable en la música electrónica p
       -Influencia musical: su trabajo influyó en géneros como el ambient, la música electrónica experimental, el new age y la música para cine y videojuegos.
 
 
-Referencias 
+Referencias
+
 Mujeres Bacanas. (s.f.). Suzanne Ciani (1946): es considerada una de las pioneras de la música electrónica.
 https://mujeresbacanas.com/suzanne-ciani-1946-es-considerada-una-de-las/
 
