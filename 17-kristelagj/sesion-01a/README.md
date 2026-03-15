@@ -67,6 +67,8 @@ Mientras veía el documental entendía el porque me gusta la música electrónic
 
 ![image alt](https://github.com/kristelagj/dis8644-2026-1/blob/987d761ace27704a0a22dccd7cc9670371c22cd2/17-kristelagj/sesion-01a/cosmismessenger.jpg)
 
+![Cosmis Messenger](cosmismessenger.jpg)
+
 El mundo seguía una misma línea, todos hacían lo mismo pero a su manera, pero a partir del siglo XX toda esa continuidad decayó y comenzó a tener matices, el silencio se rompió, todo elemento podía ser un sonido, los aviones, las sirenas, las bombas, todo podía ser utilizado para crear música, liberarse y/o expresarse, ya no solo existía el violín o el piano a la disposición para expresar algo. Esto me hace reflexionar el porque si vivo en un siglo que estos dos elementos coexisten, preferí ser intérprete de uno sobre el otro, siendo ambos actualmente de mi gusto, es una duda que ahora no tiene respuesta, pero puedo decir la viola fue el instrumento que llegó primero a mis manos cuando más la necesite. 
 
 Es por esto, que logré conectar con muchas de ellas las cuales comenzaron en el área clásica como lo es con Clara Rockmore, mujer nacida en Lituania, Violinista e intérprete del Theremin, conociendo al creador de este ¿cómo una mujer viniendo de lo clásico, pasa a un instrumento tan abstracto? bueno, algo muy lamentable por efectos de la desnutrición infantil. Como intérprete puedo decir que la posición de tocar un instrumento de cuerda frotada es inhumana, entonces es bastante difícil. Gracias al no dejar la música, pudo conocer a Theremin y poder ayudarlo a mejorarlo por su buen dominio de este como por ejemplo ampliación del rango de octavas de 3 a 5.
