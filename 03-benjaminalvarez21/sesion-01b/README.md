@@ -24,9 +24,13 @@ Conducir
 Iguales se repelen, Distintos se atraen
 
 Ley de Ohm
-                       Voltaje (V)
+
+               Voltaje (V)
+                       
 Corriente (I) = —----------
-                       Resistencia (R)
+
+               Resistencia (R)
+                       
 
 Tinkercard: para hacer circuitos en la web
 
