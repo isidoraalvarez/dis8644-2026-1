@@ -19,6 +19,12 @@ Dependiendo del circuito con los colores, se verán diferentes cifras.
 
 ![Codigo de colores sobre las resistencias](./imagenes/codigo-colores.png)
 
-La idea es que al final sepa entender y armar un esquemático
+*La idea es que al final sepa entender y armar un esquemático*
 
 Al hacer un circuito el cable negativo debe ir al lado de la resistencia y no en la misma línea, conectando el lado negativo del led al cable.
+
+- Circuito paralelo: lo interesante de esto es que son independientes uno del otro
+
+*Un circuito electrico es un circuito cerrado y resistivo*
+
+- Los componentes tienen sus propios nombres siendo: R1 Y R2 con sus respectivos D1 y D2
