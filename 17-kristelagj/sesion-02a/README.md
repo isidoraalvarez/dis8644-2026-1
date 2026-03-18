@@ -49,6 +49,7 @@ Las resistencias tienen un codigo de color ya que a traves de este metodo podemo
 3.  El color dorado es el margen de error o tolerancia.
 
 ![tabla](imagenes/tabla_de_resistencia.jpg)
+![tabla](imagenes/resistencia_colores.jpeg)
 
 Calculadora de resistencia https://www.digikey.com/es/resources/conversion-calculators/conversion-calculator-resistor-color-code 
 
@@ -75,6 +76,7 @@ Mucho de las cosas que hacemos es por sentir algo (aaron)
 ![materiales](imagenes/materiales.jpeg)
 ![ejercicio](imagenes/ejercicio.jpeg)
 ![ejercicio 1](imagenes/ejercicio_1.jpeg)
+![dibujo](imagenes/circuito_dibujo.jpeg).
 
 ### post-clase
 
