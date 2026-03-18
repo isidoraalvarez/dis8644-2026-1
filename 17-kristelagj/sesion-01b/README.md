@@ -76,6 +76,6 @@ Como dije antes, pense que seria un documental sobre cómo el desarrollo reddit,
 
 A ver, si tu no estas escondiendo nada ¿por qué te aterras de una persona que desea toda la información que debería ser de dominio público y entregarla al mundo? ¿es por eso que quieres que otros testifiquen en contra de él? Desde ese punto todo me parecía bastante extraño. Soy una persona 0 política, pero esto me hace pensar en muchas cosas y que alguien tenga que arriesgar su vida por la presión y miedo de otros. Por favor, un poco de conciencia humana. 
 
-
+Entonces quiero volver a recalcar el ¿por qué alguien se debe sacrificar hasta su vida para que recién las cosas sucedan como deben? para mi hasta el día de hoy no lo entiendo.
 
 
