@@ -79,3 +79,4 @@ A ver, si tu no estas escondiendo nada ¿por qué te aterras de una persona que 
 Entonces quiero volver a recalcar el ¿por qué alguien se debe sacrificar hasta su vida para que recién las cosas sucedan como deben? para mi hasta el día de hoy no lo entiendo.
 
 
+(Quiero decir que me ha costado un poco aprenderme los nombres de todo, no me acuerdo de ninguno, las siglas me cuestan mucho, pero voy de a poco!)
