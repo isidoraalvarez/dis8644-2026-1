@@ -20,4 +20,24 @@ No es algo que diría me encanta, pero sí es algo que se siente distinto, y eso
 
 https://youtu.be/EdubMwbOndo
 
+## **LCD Soundsystem**
 
+# ** Sound of Silver**
+
+Mi primera impresión fue que era un concierto típico de los que uno está acostumbrado pensé que era tipo tranquilo, no como  Kraftwerk. pero a medida que avanzaba la presentación la energía empezó a subir su ritmo la energía que transmitía. Se siente más simple al principio, pero igual tiene mucha energía por parte del público.
+
+LCD Soundsystem empezó a crear su música a principios de los 2000 en New York City, liderados por James Murphy. Su idea era mezclar la música electrónica de clubes con el rock, usando sintetizadores y ritmos repetitivos, pero también guitarras y voz humana. No buscaban sonar fríos o robóticos, sino hacer música de fiesta que igual se sintiera emocional y cercana. Un ejemplo claro de este estilo es el disco Sound of Silver, donde se nota esa mezcla entre baile, repetición y nostalgia.
+
+En ese momento LCD Soundsystem ya era una banda bastante importante dentro de la música electrónica e indie. Además, este concierto es especial porque la banda había estado separada por varios años y recién habían vuelto, así que había una sensación de regreso, tanto para ellos como para los fans.
+
+Este concierto es del festival Glastonbury Festival en 2016, en Inglaterra. En ese momento LCD Soundsystem ya había vuelto después de separarse por un tiempo, así que también se siente como un regreso importante para la banda.
+
+Lo que me llamó la atención es que, aunque no es un show súper exagerado con efectos todo el tiempo, igual se siente intenso, también sentí que las canciones, aunque son repetitivas, en vivo se sienten más fuertes. Es como si el ambiente del público hiciera que todo suene más grande y más emocionante.
+
+Comparado con conciertos actuales, que muchas veces tienen pantallas gigantes, efectos visuales y todo muy producido, esto se siente más directo. Es más la banda tocando y la gente viviendo el momento, sin tanto espectáculo encima.
+
+Lo que más me quedó es que es un concierto donde la música no necesita ser complicada para sentirse intensa, porque la energía del público y la repetición hacen que te metas en el momento.
+
+## **Referente**
+
+https://www.youtube.com/watch?v=GHiQ5UMfoO0
