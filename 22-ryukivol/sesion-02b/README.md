@@ -20,5 +20,7 @@ V = I * R OHM
 - si se le agrega una fotoresistencia se mantiene parpadeando hasta tapar la luz y baja su velocidad
 - ## Al cambiar C1
 - 100 UF el parpadeo es mas lento
-- 10 UF parpadeo normal  
-- 1 UF no parpadea 
+- 10 UF parpadeo rapido
+- 1 UF no parpadea
+- ### Al cambiar R2
+- potenciometro permite regular la intensidad de los parpadeos 
