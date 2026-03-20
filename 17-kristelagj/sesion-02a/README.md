@@ -161,4 +161,5 @@ Ejercicio 2
 ![ejercicio 2](imagenes/ejercicio2_c.jpeg)
 ![ejercicio evidencia](imagenes/ejercicio2_evidencia.jpeg)
 
+Todos mis resultados eran comparados con mi amiga Paula y ambas teniamos resultados distintos en ciertas resitencias. 
 
