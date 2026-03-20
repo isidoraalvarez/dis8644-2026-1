@@ -44,4 +44,8 @@ Capacitor cerámico, no polarizado:
 
 ![chip](./imagenes/chip555.jpg)
 
-![chip](./imagenes/conexión-chip.jpg)
+![chip](./imagenes/conexion-chip.jpg)
+
+![lenguaje-condensador](./imagenes/lenguaje.jpg)
+
+![conexion](./imagenes/lucecita.gif)
