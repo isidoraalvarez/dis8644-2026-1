@@ -29,7 +29,11 @@ Elementos para realizar el circuito
 **Protoboard (base)**
 
 **Resistencia:** se mide en OHM. las resistencias no tienen polaridad entonces no importa en qué dirección se coloca. Controla el flujo de electrones.
-Para poder identificar la dirección nos guiamos por el dorado que irá al último. Los primeros dos colores son dígitos; el tercer color es la cantidad de ceros, por ejemplo, rojo-rojo-café-dorado es igual a 220 Ω, ya que el rojo equivale a 2, y el café a 1, indicando que solo hay un cero. 
+Para poder identificar la dirección nos guiamos por el dorado que irá al último. 
+1. Los primeros dos colores son dígitos;
+2. el tercer color es la cantidad de ceros
+   
+Osea, rojo-rojo-café-dorado es igual a 220 Ω, ya que el rojo equivale a 2, y el café a 1, indicando que solo hay un cero. 
 
 **LEDs:** tienen un lado positivo (ánodo) y negativo (cátodo)
 
@@ -39,8 +43,13 @@ Terminal largo es positivo y terminal corto es negativo
 En la parte superior del LED se encuentran 2 triángulos, en donde e grande es el negativo, mientras que el pequeño es el positivo
 Tocar la cabeza del LED, y cuando sientas una parte plana, significa que ese lado es el negativo, mientras que el redondo es el positivo.
 **Cables dupont:** 
+
 **Conector de batería:**
+
 **Batería:**
+
 **potenciómetros B100k:**
+
 **chips:**
+
 **un broche de batería:**
