@@ -56,7 +56,7 @@ aqui esta el encargo del toy organ que relizamos en conjunto anays y yo
 
 ![resultado](./imagenes/foto-resultado.jpeg)
 
-al inicio no daba resultado, no sonaba nada ya que conectamos mal el cable que iba en el pie 7 de el chi, porque estaba puesto en el 6
+al inicio no daba resultado, no sonaba nada ya que conectamos mal el cable que iba en el pie 7 de el chip, porque estaba puesto en el 6
 
 al arreglar el error si apretabamos los botones de manera individual no sonaba nada, pero si lo apretabamos a la vez, suena
 
