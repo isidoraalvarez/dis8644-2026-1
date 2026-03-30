@@ -12,6 +12,18 @@ martes 17 de marzo
 - Cables
 - Chips
 - Leds
+  
+### Definiciones
+
+- Potenciómetro: resistencia variable que permite controlar valores dentro de un circuito. Existen tipos A (logarítmicos) y B (lineales).
+- Chip IC (circuito integrado): componente que contiene múltiples elementos electrónicos en un solo encapsulado.
+- Resistencias: comúnmente hechas de carbón debido a su alta resistencia eléctrica.
+
+Otros materiales conductores:
+
+Cobre → 0,075 Ω
+
+Oro → 0,022 Ω
 
 ### Probando circuitos en clase
 
