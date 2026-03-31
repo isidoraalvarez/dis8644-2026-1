@@ -6,26 +6,26 @@ Flip Flop
 Qué es
 ejemplo minecraft
 
-*** Medida resistencias (Ohm)
+### Medida resistencias (Ohm)
 + 1.000.000.000: Giga
 + 1.000.000: Mega
 + 1.000: Kilo
 + 1: 
 
-Medida condensadores (Faradio)
+### Medida condensadores (Faradio)
 1:1000= 0,001 (mili)
 nano: 10^-9
 
 Condensadores como el 104 son de 10.000 pF
 (lo mismo que) 100 nanoF
 
-*** A la próxmima me tengo que sentar más cerca de la pizarra, no vEo nada
+* A la próxmima me tengo que sentar más cerca de la pizarra, no vEo nada
 
 no entendi lo de 470 pF
 
 revisar 555 por dentro
 
-Introducción a Kicad 
+## Introducción a Kicad 
 alternar siempre con la tecla escape
 visualizacion: electrones haceidno cosplay de electrones
 (corregir) si subo el brillo la resistencia sube y parpadea mas rapido
