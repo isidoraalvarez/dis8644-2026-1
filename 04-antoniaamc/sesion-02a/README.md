@@ -2,7 +2,6 @@
 
 # Autobahn
 
-![autobahn](./imagenes/autobahn-2009.jpg)
 
 Autobahn es el cuarto álbum publicado del grupo alemán Kraftwerk en Noviembre de 1974, siendo el primero que logró posicionar tanto a la banda, como a la música electrónica cantada en alemán dentro de la escena y listas de éxitos internacionales (Top 30 en Europa y Estados Unidos). Fue una **grabación electrónica revolucionaria**, incorporó líneas de bajo sintetizadas aproximadamente tres años antes de “*I Feel Love*” de Donna Summer y Giorgio Moroder, tema que marcó uno de los primeros acercamientos masivos a la electrónica en la música disco. 
 
@@ -17,6 +16,9 @@ https://en.wikipedia.org/wiki/Autobahn_(album)#/media/File:Autobahn-kraftwerk-co
 
 
 ### Portada Autobahn (Remasterizda 2009)
+
+![autobahn](./imagenes/autobahn-2009.jpg)
+
 https://en.wikipedia.org/wiki/Autobahn_(album)#cite_note-FOOTNOTEHooker1976-36 
 
 
@@ -65,7 +67,7 @@ Duración: 4:02 minutos.
 ### Sintetizadores: 
 Moog Minimoog Model D
 
-![autobahn](./moog-minimoog-model-d-00-xl.jpg)
+![autobahn](./imagenes/moog-minimoog-model-d-00-xl.jpg)
 
 Equip Board: 
 https://equipboard.com/items/moog-minimoog-model-d
@@ -75,25 +77,28 @@ https://equipboard.com/items/moog-minimoog-model-d
 Equipboard
 https://equipboard.com/items/arp-2800-odyssey-rev1
 
-![autobahn](./arp-2800-odyssey-rev1-xl.jpg)
+![autobahn](./imagenes/arp-2800-odyssey-rev1-xl.jpg)
+
 Equipo de estudio utilizado por Kraftwerk en Autobahn
 
 ### Caja de ritmos
 
 VOX V829 Percussion King
 
-![autobahn](./vox-percussion-king-drum-machine-1967-xl.jpg)
-Equipboard
-https://equipboard.com/items/vox-percussion-king-drum-machine-1967
+![autobahn](./imagenes/vox-percussion-king-drum-machine-1967-xl.jpg)
+
+Equipboard <https://equipboard.com/items/vox-percussion-king-drum-machine-1967>
 
 
 - Teclados y sintetizadores usados por Ralf Hütler on Autobahn
 
-![autobahn](./korg-arp-odyssey-xl.jpg)
-Equipboard
-https://equipboard.com/items/korg-arp-odyssey 
+![autobahn](./imagenes/korg-arp-odyssey-xl.jpg)
+
+Equipboard <https://equipboard.com/items/korg-arp-odyssey >
+
 
 Vocoder, un analizador y sintetizador de voz que inicialmente fue desarrollado en la década de 1930 como un codificador de voz para telecomunicaciones. El Vocoder característico de Kraftwerk fue un dispositivo personalizado derivado de tecnología de voz, frecuentemente asociado con el sintetizador/vocoder de la marca alemana Sennheiser VSM 201.
 
-![autobahn](./vocoder-kraftwerk.jpg)
+![autobahn](./imagenes/vocoder-kraftwerk.jpg)
+
 https://es.wikipedia.org/wiki/Vocoder 
