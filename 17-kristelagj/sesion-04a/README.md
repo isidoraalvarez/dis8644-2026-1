@@ -47,8 +47,8 @@ Este se llama “Active line drive ALD-1”, el cual tiene un ruido que aún no 
 
 ![Active line drive ALD-1](imagenes/active_line_drive_adl1.jpeg)
 
-
 Es muy fácil de desarmar, solo tenia 8 tornillos de cruz y listo (es hermoso poder reconocer cosas que antes no tenia pensado en saber. Este ramo me ha ayudado a poder hablar más con mi papá)
+
 
 
 transformadores toroidales
