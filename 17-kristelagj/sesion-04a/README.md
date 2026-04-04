@@ -55,6 +55,8 @@ Dividi en 4 secciones la PCBA
 
 - Zona 1
 
+![zona 1](imagenes/zona-1.jpg)
+
 Resistencias:
 
 | # | Banda 1 | Banda 2 | Banda 3 | Banda 4 | Banda 5 | Banda 6 |
@@ -73,6 +75,8 @@ Condensadores:
 | 3 | 220 µF      | 63 V   |
 
 - Zona 2
+
+![zona 2](imagenes/zona-2.jpg)
 
 Resistencias:
 
@@ -98,6 +102,7 @@ Condensadores:
 
 - Zona 3
 
+![zona 3](imagenes/zona-3.jpg)
 
 Resistencias:
 
@@ -117,6 +122,8 @@ Condensadores:
 | 1 | 100 µF      | 35 V   |
 
 - Zona 4
+
+![zona 4](imagenes/zona-4.jpg)
 
 Resistencias:
 
