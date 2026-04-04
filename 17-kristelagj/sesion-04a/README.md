@@ -167,5 +167,10 @@ Condensadores:
 
 No hay
 
+1. En zonas 2 y 3 hay circuitos integrados de 65448
+2. Los GND y TP estan por todas las zonas y tienen un alambre soldado
+3. Las E solo estan soladadas
+4. El equipo tiene otra PCBA pero esta en vertical la cual sus LED estan hacia afuera. Logro apreciar que tiene condenzadores no polarizados, LED, circuitos integrados de 8 pins, 14 pins y resistencias.
+5. Me gusta el diseño de los sectores, muy microdesign
 
 
