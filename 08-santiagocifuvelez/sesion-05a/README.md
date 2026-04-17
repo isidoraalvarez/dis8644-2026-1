@@ -1,6 +1,8 @@
 # sesion-05a
 07 de Abril del 2026
 
+![Tododaigual](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-05a/imagenes/img2.png)
+
 Hola Profe Aron, Misa y Emi. Espero que se encuentren bien el día en el que estén leyendo estos textos.
 El día de hoy vamos a ver:  
 
@@ -42,8 +44,6 @@ As a way of sumary:
 ![sumary](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-05a/imagenes/img1.png)
 
 ## 3.	Todo es un ritmo y hay diferentes tipos de Ondas que componen estos.  
-
-![Tododaigual](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-05a/imagenes/img2.png)
 
 **Cada una de estas ondas, genera un sonido diferente por su morfología.**
 ![ondess](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-05a/imagenes/img3.png)
