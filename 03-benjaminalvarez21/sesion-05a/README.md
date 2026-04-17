@@ -36,16 +36,18 @@ Las compuertas lógicas not (inversor) y and son componentes fundamentales en la
 
 ### ejercicio en clase con el chip 4093 y lm386
 
-creamos un amplificador de sonido junnto a anays cornejo, primero con un potenciometro y despues con dos.
+Creamos un amplificador de sonido junto a Anays Cornejo, primero con un potenciómetro y después con dos.
 
-### un potenciometro
+### un potenciómetro
 
 https://github.com/user-attachments/assets/d2ce1d8e-45e1-4622-b72d-d0a0dd475233
 
-### doble potenciometro
+### doble potenciómetro
 
 https://github.com/user-attachments/assets/2bbdde3e-94cc-4182-a0ea-fdfef8664d0b
 
-en el de doble potenciometro nos dimos cuenta que suena muy similar a pokerface de lady gaga
+en el de doble potenciómetro nos dimos cuenta que suena muy similar a pokerface de lady gaga
 
 https://github.com/user-attachments/assets/b95852d9-8988-4afd-86c6-a97173941883
+
+
