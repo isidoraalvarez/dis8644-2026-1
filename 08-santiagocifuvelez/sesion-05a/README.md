@@ -50,8 +50,7 @@ As a way of sumary:
 
 ## 4.	Lógica de Boole.
 
-Lord!, por ahora pondré mis apuntes express realizados en clase, pero cuando termine de organizarlos en limpio, los actualizo así super chusquis. 
-Besitos y ty.
+La lógica booleana es un sistema de razonamiento que trabaja con valores binarios: verdadero (1) y falso (0), y fue desarrollado por el matemático George Boole. En vez de usar números complejos, la lógica booleana se basa en operaciones simples que permiten tomar decisiones lógicas usando solo dos estados, y, en resumen, se ve así:
 
 This one is "OR"
 ![OR](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-05a/imagenes/or.jpeg)
