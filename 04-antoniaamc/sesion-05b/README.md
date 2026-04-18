@@ -111,7 +111,11 @@ Resumen de Equivalencias
 
 --------------------------------
 
-## Circuito integrado 555
+## Circuito integrado 555  
+Chip temporizador que genera pulsos eléctricos, se usa para crear ritmos o señales repetidas (como un reloj).
+Puede prender y apagar una salida automáticamente según un tiempo definido con resistencias y un capacitor.
+
+**Voltaje de alimentación (VCC)**: entre 4.5V y 16V
 
 ![bitacora-05-b](./imagenes/signetics-ne555n.jpeg)  
 Fuente: Circuito Integrado 555 ([Wikipedia](https://es.wikipedia.org/wiki/Circuito_integrado_555))
@@ -133,9 +137,16 @@ Fuente: *Máquinas sonoras, electrónicas y computacionales - Estrategias y rece
 | 8   | VCC          | Voltaje positivo de alimentación (+V). |
 
 ## Circuito integrado 4017  
-Contador por décadas (Decade counter / walking ring counter)
+Contador de décadas (Decade counter / walking ring counter). Activa una salida distinta en cada pulso, recibe el ritmo (generalmente del 555) y va encendiendo salidas una por una (Q0 a Q9).  
+Usos: luces, pasos, sonidos.
 
-![bitacora-05-b](./imagenes/cd4017-bitacora-05-b-antoniaamc.png)
+**Voltaje de alimentación (VCC)**: entre 3V y 15V
+
+**Nota**: ¿Por qué hay un capacitor de 100 µF entre + y −?  
+Convierte una señal analogica ruidosa en una limpia, como si las ondas oscilantes se convirtieran en "cuadradas".
+
+![bitacora-05-b](./imagenes/cd4017-bitacora-05-b-antoniaamc.png)  
+🕷️🕷️ Fuente: [Technology Ariat](https://www.ariat-tech.es/blog/a-deep-dive-into-the-working-principles-and-applications-of-the-ic-4017.html)
 
 ![bitacora-05-b](./imagenes/circuito-intgrado-4017-borrador-principal.png)
 
@@ -160,19 +171,9 @@ Contador por décadas (Decade counter / walking ring counter)
 | 15  | Reset            | Reinicia la secuencia y vuelve a Q0. |
 | 16  | VCC              | Voltaje positivo de alimentación (+V). |
 
+# faltan más chips
 
-# ARREGLAR
 
-  tierra / 9 byts
-
-CI: innihibt . ignorar
-
-reset: 0123, cuando quira volver a 4 va a volver a 0
-
-cuenta: 0123 0123 0123 0123
-
-pq entre el + y - hay 100uf 
-convierte una señal analogica ruidosa en una limpia, como si las ondas oscilantes se convirtieran en cuadradas
 
 
 
