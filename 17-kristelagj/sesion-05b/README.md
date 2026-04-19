@@ -29,7 +29,7 @@ Esta parte de la clase fue mucho más rápida y realizamos mucho trabajo en grup
 
 Hoy implementamos el chip 4017
 
-![4017](/imagenes/circuito-integrado-cd4017.jpg)
+![4017](imagenes/circuito-integrado-cd4017.jpg)
 
 - Contador de décadas es de Q0 a Q9
 
