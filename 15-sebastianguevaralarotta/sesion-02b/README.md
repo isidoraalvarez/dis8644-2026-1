@@ -1,4 +1,4 @@
-# sesion-02b
+
 # sesion-02b
 ## Taller de informática – Diseño de máquinas electrónicas
 
@@ -75,17 +75,26 @@ En esta sesión se logró comprender cómo interactúan los componentes básicos
 
 Esto permite avanzar hacia el diseño de máquinas electrónicas más complejas, entendiendo desde la base cómo fluye y se controla la electricidad.
 
-para el taller - Diseño de máquinas electrónicas.
-
+- Preguntas posibles para el taller - Diseño de máquinas electrónicas
 ¿Cuál es la función principal de una breadboard y por qué se usa en prototipos?
+
 ¿Cómo influye la Ley de Ohm en el diseño de un circuito electrónico?
+
 ¿Qué diferencia existe entre corriente continua (DC) y corriente alterna (AC)?
+
 ¿Para qué sirve un condensador dentro de un circuito?
+
 ¿Cómo se comporta un LED y por qué necesita una resistencia?
+
 ¿Qué función cumple un potenciómetro y en qué casos se utiliza?
+
 ¿Qué pasa si conecto incorrectamente los polos de una batería en un circuito?
+
 ¿Cómo se puede generar una señal repetitiva usando un circuito astable?
+
 ¿Qué rol cumplen las resistencias en la protección de componentes electrónicos?
+
 ¿Cómo se distribuye la energía dentro de una breadboard?
+
 
 
