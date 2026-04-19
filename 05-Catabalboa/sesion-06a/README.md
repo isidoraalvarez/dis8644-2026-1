@@ -13,3 +13,23 @@ Clase 14 de abril
 
 *Imagen del proceso de la clase*
 
+## Entrega 24 de abril
+
+Los primeros 3 son grupales, los siguientes 3 individuales:
+
+1. **Factura del sintetizador**  
+   Orden del circuito, limpieza, organización  
+
+2. **Documentación textual**  
+   Diagrama de bloques, esquemático, dibujos, explicación de cada parte  
+
+3. **Modificaciones**  
+   Decisiones de diseño, mejoras, parámetros, experiencia de uso  
+
+4. Bitácoras marzo  
+
+5. Bitácoras abril  
+
+6. Presentación oral  
+
+
