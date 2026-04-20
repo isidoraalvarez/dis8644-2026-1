@@ -43,3 +43,5 @@ En lo personal, creo que el estabilizar cada sección del circuito con condensad
 ![resultado 1](./imagenes/resultado1.jpg)
 
 ![resultado 2](./imagenes/resultado2.jpg)
+
+- Como extra, decidimos colocarle 3 parlantes para escuchar en diferentes lugares a la misma vez y funcionó: "el ritmo es el mismo y suena a la vez en cada parlante".
