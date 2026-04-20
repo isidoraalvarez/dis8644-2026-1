@@ -8,6 +8,8 @@
 
 - se podría decir que "tiene memoria"
 
+  ![foto](imagenes/histeresis-rep.png)
+
 - las transiciones con schmitt trigger son más controladas
 
 - se trabaja con dos ubrales (uno sube y otro baja)
@@ -18,5 +20,6 @@
 # mix #
 
 salidas ast se conectan con las ressitencas al mix que va hacia el amplificador
+
 
 
