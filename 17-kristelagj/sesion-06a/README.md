@@ -13,5 +13,16 @@ Me gustaría poder usar esto ya que como él mencionó, uno debe tener un portaf
 
 Es importante saber que la vida no es una grilla y eso también lo saben los chips.
 
+
+Schmitt Trigger: es un circuito comparador con histéresis (2 umbrales) que convierte señales analógicas ruidosas o de forma irregular (sinusoidal, triangular) en ondas cuadradas digitales limpias. Utiliza dos niveles de voltaje umbral (alto y bajo) para evitar conmutaciones falsas provocadas por ruido.
+
+
+Histéresis: es un comportamiento que tiene memoria. No responde solo al estado actual, sino también a lo que le ocurrió antes. 
+ 
+Por ejemplo, si algo se enciende el 18°C y apaga con el 24°, no estará encendido y apagado en 20°C. Entonces cuando la temperatura baje a 18°C el calefactor encenderá, pero cuando llegue a 24° se apagará. 
+
+
+
+
 ### post-clase
 
