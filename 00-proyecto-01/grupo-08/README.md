@@ -14,9 +14,7 @@ Mantuvimos el circuito con el esquemático que nos entregaron, realizando modifi
 
 En base a que no profundizamos en los cambios de sonidos, quisimos diseñar de mejor manera la experiencia al manipularlo, es por eso que le dimos el título de “Naturalezas Interconectadas”. Este título simboliza que somos distintos tipos de naturalezas interactuando la una con la otra, en nuestro caso, personas, interactuando con este circuito a través del sonido y las luces. Así, quisimos integrar dentro del diseño de la carcasa las luces como parte del sintetizador, haciendo que al interactuar no solo se le diera protagonismo al sonido, sino también a las reacciones lumínicas.
 
-imagen del sintetizador en su contexto
-
-audio o video del sintetizador en acción
+![sintetizador](./videos/video-sinte.mov)
 
 ## proceso y resultados del reloj y secuenciador
 
@@ -38,6 +36,10 @@ También probamos modificar los valores de los condensadores para explorar cómo
 
 Otra modificación fue la conexión de 2 de los potenciómetros, el del 555 y el del LM386, que para que pudiesen quedar cómodamente funcionales en la carcasa los sacamos de la protoboard mediante cables dupont M-H (macho-hembra).
 
+![modificación resistencia](./imagenes/modificaciones1.png)
+
+![modificación potenciómetro](./imagenes/modificaciones2.png)
+
 ## carcasas de cartón
 
 textos, imágenes
@@ -54,7 +56,7 @@ Resultado final de nuestro proyecto “Naturalezas Interconectadas”
 
 Se logró un montaje final funcional, donde organizamos el circuito dentro de la carcasa y los componentes quedaron correctamente distribuidos y las perillas accesibles, agregando pequeñas piezas en resina impresas en 3D para 4 de los potenciómetros que corresponden al chip 4093 permitiendo su manipulación sin interferir en el funcionamiento del sistema. El circuito responde a las variaciones de los potenciómetros generando cambios en la frecuencia, modulación y amplitud de la señal. 
 
-*fotos y videos*
+[![videofinal](./imagenes/proyectofinal1.jpg)](https://www.youtube.com/shorts/sx-67NX70Cc)
 
 ## aprendizajes y errores
 
@@ -65,3 +67,8 @@ las mejores lecciones aprendidas y los errores más comunes y cómo los resolvie
 sobre modularidad, materialidad, trabajo en equipo, trabajo electrónico, trabajo maquinal.
 
 ## bibliografía
+
+- Instituto NCB. (s.f.). Conozca el 4017. <https://www.incb.com.mx/index.php/articulos/53-como-funcionan/769-conozca-el-4017-art124s>
+- Build Electronic Circuits. (s.f.). CD4093 - An IC with four Schmitt trigger NAND gates. <https://www.build-electronic-circuits.com/4000-series-integrated-circuits/ic-4093/>
+- Cults3D. (s.f.). 10k pot shaft extender. <https://cults3d.com/en/3d-model/various/10k-pot-shaft-extender>
+- Audiomáquinas. (s.f.). Taller: Sonidos en la protoboard. <https://www.audiomaquinas.com/taller-sonidos-protoboard/>
