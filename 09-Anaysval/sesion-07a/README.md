@@ -12,7 +12,7 @@ También hicimos pruebas con condensadores de 1uF, 10uF y 100uF, para ver cómo 
 
 Luego por la tarde, en el LID, le agregamos al circuito un botón de encendido y apagado para hacerlo más cómodo de usar y para simular la boquita del pez.
 
-### Bocetos
+### Bocetos del proyecto
 
 ![foto](./imagenes/1bocetos.png)
 
