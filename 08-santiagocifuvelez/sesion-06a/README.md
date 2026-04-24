@@ -21,3 +21,7 @@ Es un sistema interno que tienen los chips, que les permite pelear con las imper
 ![histéresis](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-06a/imagenes/histeresis-explanation.jpg)
 
 Como se puede observar anteriormente, tenemos un gráfico con unos umbrales que son como limites, que cuando el ruido los pasa (las imperfecciones del mundo real), se activa la señal principal y dice; “es momento de subir o de bajar” (las correcciones “utópicas”), y esto hace que el sonido que escuchemos sea más limpio y menos noisi o sucio. 
+
+## 3 Aplicación en trabajo en clase para creación de instrumento x proyecto solemne 01.
+
+![esquema](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-06a/imagenes/esquema.png)
