@@ -43,7 +43,7 @@ No tuvimos problemas al armar el circuito. El único inconveniente fue que vario
 
 Esto nos frustró un poco, pero después de varios intentos logramos que funcionara correctamente.
 
-![555funcionando](./imagenes/555funcionando.gif)
+![555funcionando](./imagenes/555try.gif)
 
 ### Secuenciador (4017)
 
@@ -172,7 +172,13 @@ El sistema se construyó utilizando cables Dupont tanto para el circuito princip
 
 ## resultados finales
 
-texto
+El resultado es un sintetizador modular funcional con forma de pez, hecho con cartón corrugado de 3 mm mediante corte láser. El sistema está dividido en dos partes (cabeza y cuerpo), lo que ayudó a ordenar mejor los componentes y sus conexiones.
+
+El circuito permite generar, secuenciar y modificar sonidos. La señal parte en el 555, pasa al 4017 que crea la secuencia, luego el 4093 modifica los tonos y finalmente el LM386 amplifica el sonido hacia el parlante.
+
+La interfaz permite que el usuario interactúe fácilmente mediante potenciómetros que controlan la velocidad, los tonos y el volumen. Estos están ubicados en distintas partes del pez, lo que hace más fácil usarlos.
+
+El sintetizador funciona correctamente y responde a los cambios que hace el usuario, permitiendo variar el ritmo, el tono y la intensidad del sonido.
 
 ![resultados](./imagenes/1pez.png)
 
