@@ -48,13 +48,13 @@ Incluso en la versión final se retiraron los 4 LEDS del 4017 por la inestabilid
 
 Para el final de la semana, se terminaron reemplazando más de 3 chips 555 y 4017 por fallas.
 
-“Tenemos la hipótesis de que en uno de los intentos al ser utilizado un condensador de 1uF para oscilaciones rápidas, puede que algo del circuito no vaya a la par de la velocidad del 555 y que por eso falle”
+“Tenemos la hipótesis de que en uno de los intentos al ser utilizado un condensador de 1μF para oscilaciones rápidas, puede que algo del circuito no vaya a la par de la velocidad del 555 y que por eso falle”
 
 Antes de saber que fue por 3 chips quemados/no funcionales consecutivos y malas conexiones de los cables a la protoboard, hicimos un pequeño listado de cambios para descartar los errores:
 
 -Se cambió el chip 555: esto resultó en que el LED prendía, pero no oscilaba correctamente.
 
--Cambiamos el condensador de 100 uF por uno de 1 uF.
+-Cambiamos el condensador de 100 μF por uno de 1 μF.
 
 -Se vuelve a cambiar el chip 555.
 
@@ -82,17 +82,17 @@ Mientras pensábamos que los potenciómetros estaban mal soldados, fuimos proban
 En este caso se fue probando cada compuerta una por una y se comprobó que hubo una mal interconexión entre este chip y el 386 porque GROUND iba conectado a nada y VCC estaba conectado al negativo de la protoboard.
 y para el 386 hubo un problema con el potenciómetro que nivelaba el sonido ya que la pata 3 de este, no estaba bien soldada.
 
-Una vez visto que el sintetizador empezó a producir frecuencias audibles  nuevamente, se decidió por modificar ciertos componentes para obtener distintas tonalidades, para esto se hizo un cambio en los capacitores de 10uf que se conectaban a los **Steps**: 
+Una vez visto que el sintetizador empezó a producir frecuencias audibles  nuevamente, se decidió por modificar ciertos componentes para obtener distintas tonalidades, para esto se hizo un cambio en los capacitores de 10μF que se conectaban a los **Steps**: 
 
-**Step 1**: Se colocaron 3 capacitores de 47 uf en serie.
+**Step 1**: Se colocaron 3 capacitores de 47 μF en serie.
 
-**Step 2**: Se colocaron 3 capacitores de 22 uf en serie
+**Step 2**: Se colocaron 3 capacitores de 22 μF en serie
 
-**Steps 3**: Se colocaron 3 capacitores de 0.47 uf en serie
+**Steps 3**: Se colocaron 3 capacitores de 0.47 μF en serie
 
-**Step 4**:  Se colocaron 2 capacitadores de 0.47 uf en serie
+**Step 4**:  Se colocaron 2 capacitadores de 0.47 μF en serie
 
-Se hizo con la intención de obtener 4 sonidos totalmente distintos, desde el STEP 1, que es donde la frecuencia es menor, específicamente 0.46 Hrz y STEP 4 donde la frecuencia es más alta: 45.95 Hrz.
+Se hizo con la intención de obtener 4 sonidos totalmente distintos, desde el STEP 1, que es donde la frecuencia es menor, específicamente 0.46 Hz y STEP 4 donde la frecuencia es más alta: 45.95 Hz.
 
 Las páginas que utilizamos para calcular la frecuencia fueron, una recomendada por Aaron: 
 https://stompboxelectronics.com/resources/schmitt-trigger-oscillator-calculator/ y otra que encontramos en internet para sumar capacitores en serie: https://www.digikey.com/es/resources/conversion-calculators/conversion-calculator-series-and-parallel-capacitor 
@@ -101,7 +101,7 @@ https://stompboxelectronics.com/resources/schmitt-trigger-oscillator-calculator/
 
 ## modificaciones realizadas a los circuitos originales
 
-1. En el chip 4093 se cambiaron los condensadores de 1uf y se integraron una mayor cantidad de capacitores en serie de distintos valores.
+1. En el chip 4093 se cambiaron los condensadores de 1μF y se integraron una mayor cantidad de capacitores en serie de distintos valores.
 
 2.Se soldaron los potenciómetros del CD 4093 a los cables para una mayor extensión y libertad para moverlos.
 
@@ -165,7 +165,7 @@ Volumen / 386 ➢ Potenciometro Logaritmico
 
 [![clock](./imagenes/clock.jpg)](https://youtube.com/shorts/Tn4mYcJkdbM)
 
-[![experimentación](./imagenes/experimentación-condensadores.jpg)](https://youtube.com/shorts/MRkO61sCz0I?feature=share)
+[![experimentación](./imagenes/experimentacion-condensadores.jpg)](https://youtube.com/shorts/MRkO61sCz0I?feature=share)
 
 [![prueba-resultado](./imagenes/prueba-resultado.jpg)](https://youtu.be/wFk9Vo_xZWM)
 
@@ -235,5 +235,3 @@ https://www.build-electronic-circuits.com/4000-series-integrated-circuits/ic-401
 https://www.homemade-circuits.com/ic-lm-386-datasheet-explained-in-simple/
 
 https://www.incb.com.mx/index.php/articulos/53-como-funcionan/768-como-funciona-el-circuito-integrado-555-art123s 
-
-FALTA EL LINK DE LOS CALCULOS DE LA DAYA
