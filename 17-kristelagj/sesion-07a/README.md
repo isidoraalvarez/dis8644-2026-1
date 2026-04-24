@@ -59,4 +59,7 @@ https://youtube.com/shorts/NSwSG6KaihU?feature=share
 
 https://youtube.com/shorts/y3wmMXkBmb8?feature=share
 
+![proceso](imagenes/proceso-1.jpg)
+![proceso](imagenes/proceso-2.jpg)
+![proceso](imagenes/proceso-3.jpg)
 
