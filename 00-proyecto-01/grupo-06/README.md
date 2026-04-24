@@ -125,10 +125,9 @@ Al iniciar el proceso, implementamos el circuito original entregado y modificado
 
 video de santi: https://youtube.com/shorts/FAeN6yMwqWY?feature=share
 
-Una vez lista la etapa anterior, procedimos a intervenir el circuito del chip 386 para maximizar la potencia y el tono de la salida de audio. Basándonos en la premisa de que valores menores de capacidad alteran la respuesta en frecuencia, sustituimos los condensadores de 100 µF por unos de 0,47 µF en la etapa de amplificación. Con este ajuste, no funcionaba bien el sistema, así que volvimos a poner el anterior condensador (finalmente dejamos todos de 0,47 µF en la entrega final)
+Una vez lista la etapa anterior, procedimos a intervenir el circuito del chip 386 para maximizar la potencia y el tono de la salida de audio. Basándonos en la premisa de que valores menores de capacidad alteran la respuesta en frecuencia, sustituimos los condensadores de 100 µF por unos de 0,47 µF en la etapa de amplificación. Con este ajuste, no funcionaba bien el sistema, así que volvimos a poner el anterior condensador.
 
-Posteriormente, probamos realizar cambios en los condensadores vinculados a los potenciómetros. Al utilizar inicialmente valores elevados (10µF), el volumen no alcanzaba la intensidad deseada y buscábamos una mayor variedad tonal, por lo que decidimos sustituirlos por condensadores de 0,47 µF
-Este ajuste resultó mucho más satisfactorio, ya que proporcionó un sonido notablemente más agudo y potente. Sin embargo, al querer una diversidad de mantener una diversidad de texturas sonoras dentro del mismo sistema, decidimos conservar el primer condensador (de izquierda a derecha) con su valor original de 10 µF, logrando así un contraste dinámico entre los diferentes tonos del sintetizador.
+Posteriormente, probamos realizar cambios en los condensadores vinculados a los potenciómetros. Al utilizar inicialmente valores elevados (10µF), el volumen no alcanzaba la intensidad deseada y buscábamos una mayor variedad tonal, por lo que decidimos sustituirlos por condensadores de 0,47 µF. Este ajuste resultó satisfactorio, ya que proporcionó un sonido notablemente más agudo y potente. Sin embargo, al querer una diversidad de texturas dentro del mismo sistema, decidimos conservar el primer condensador (de izquierda a derecha) con su valor original de 10 µF, logrando así un contraste dinámico entre los diferentes tonos del sintetizador.
 
 Videos del mut: 
 
@@ -140,14 +139,14 @@ Videos del mut:
 
 3: https://youtube.com/shorts/5tdJ-7rMd7w?feature=share
 
-Tras completar el ajuste de los condensadores, el siguiente paso fue sustituir el potenciómetro por un fotorreceptor (sensor de luz) del primer módulo para experimentar con nuevas formas de interacción. Este cambio nos gustó más para el proyecto, ya que permitía una modulación dinámica del sistema: al aumentar la intensidad lumínica, el dispositivo generaba un sonido más rápido, mientras que en condiciones de oscuridad la velocidad disminuye. 
+Tras completar el ajuste de los condensadores, el siguiente paso fue sustituir el potenciómetro por un fotorreceptor (sensor de luz) del primer módulo para experimentar nuevas formas de interacción. Este cambio nos intereso para el proyecto, ya que permitía una modulación dinámica del sistema: al aumentar la intensidad lumínica, el dispositivo generaba un sonido más rápido, mientras que en condiciones de oscuridad la velocidad disminuye. 
 
 Al día siguiente, ocurrieron problemas en el circuito, por lo que volvió a armar y se decidió dejar el sensor en vez de el potenciador en el chip 555, y seguir con los mismos elementos que el dia anterior, solo modulando los colores y identificarlos en un dibujo esquemáticos de cada protoboard para identificarse.
 
 ### Final:
-Al aprender cómo soldar  soldadura, logramos proponer una nueva versión de carcasa por la mayor seguridad de que no se iban a desconectar. Permitiéndonos foldar los potenciómetros y el parlante de forma fija, eliminando así el riesgo que nos pasaba muy seguido de choques entre cables porque se desconectaban al  circuito, aparte de cambiar a todos los potenciadores de que están conectadas al chip 4093 por condensadores de 0,47 como decisión grupal por gustos de sonido y se notaban mas una diferencia de cada botón para nosotros.
+Al aprender cómo soldar, logramos proponer una nueva versión de carcasa por la mayor seguridad de que no se iban a desconectar ni mover nada, permitiéndonos así soldar los potenciómetros y el parlante de forma fija, eliminando así el riesgo de que los cables chocaran entre si, ya que nos desconectaba el circuito. Además de cambiar a todos los potenciadores de que están conectadas al chip 4093 por condensadores de 0,47 como decisión grupal por gustos de sonido y se notaban la diferencia de sonido independiente de que fueran los condenzadores iguales.
 
-En cuanto a la carcasa, decidimos mantener los potenciómetros y el fotosensor seleccionados previamente, ya que como equipo preferíamos la forma en que este último permitía controlar la velocidad. Ubicamos el sensor en la parte superior de la carcasa para facilitar su interacción con la luz, mientras que los botones de los potenciómetros se instalaron en el frente y el control de volumen se situó en el lateral izquierdo.
+En cuanto a la carcasa, decidimos mantener los potenciómetros y el fotosensor seleccionados previamente, ya que preferíamos que nos permitía controlar la velocidad. Ubicamos el sensor en la parte superior de la carcasa para facilitar su interacción con la luz, mientras que los botones de los potenciómetros se instalaron en el frente y el control de volumen se situó en el lateral izquierdo.
 Finalmente, para solucionar el problema recurrente de desconexión entre la batería y las líneas de alimentación, optamos por soldar los terminales directamente a la protoboard donde se encuentra el chip 555. Esto garantizó la estabilidad del flujo eléctrico, dejando la batería accesible por fuera del sistema para que solo tuviera que conectarse al momento de la solemne.
 
 
