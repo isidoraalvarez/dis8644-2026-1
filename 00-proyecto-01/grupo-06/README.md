@@ -183,9 +183,11 @@ Al final, notamos que teníamos un constante problema con los cables de la bater
 
 Evidencia de las diferentes fases que paso el proyecto hasta llega a ser “Precarias”:
 
-imagen
 
-video / audio
+![resultado](imagenes/proceso/proceso-1.jpg)
+![resultado](imagenes/proceso/proceso-3.jpg)
+![resultado](imagenes/proceso/proceso-2.jpg)
+![resultado](imagenes/proceso/proceso-2.jpeg)
 
 ## aprendizajes y errores
 
