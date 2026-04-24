@@ -19,6 +19,21 @@ para adaptar los componentes a su carcasa, decidimos alargar los cables dupont u
 + adjuntamos video de el tincado funcionando a la perfección: <https://youtu.be/hrRX-CuZbwI>
 + adjuntamos video de el interior de el tincado: <https://youtube.com/shorts/Cf6fAJbL6Gk>
 
+### codigo, cableado y composición 
+
+| colores | funcionalidad |
+| :--- | :--- |
+| negro 🖤 | GND |
+| rojo ❤️ | VCC, potenciómetro (B3)|
+| gris 🩶 | capacitores |
+| naranjo 🧡 | interconexiones entre pins, vcc entre protoboards  |
+| cafe 🤎| GND entre protoboards|
+| amarillo 💛 | capacitores cerámicos (104nF) |
+| blanco 🤍 | resistencias | 
+| azul 💙 | LED, potenciómetro (B4) |
+| morado 💜 | potenciómetro (B2) |
+
+
 ## proceso y resultados del reloj y secuenciador
 
 ### NE555
